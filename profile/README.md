@@ -1,9 +1,9 @@
  
-# Hi  👋, I'm Mukesh
+# Hi  👋, I'm Mukesh                                                                                                    ![image](https://github.com/Mk-CloudLeader/.github/assets/66654978/2717c47a-aa06-4f8b-8c61-e55e8c6cf63a)
+
 
  
 
-![image](https://github.com/Mk-CloudLeader/.github/assets/66654978/bc1f5f34-dbcf-4abd-8990-e083b2d0a61e)
 
 - 👯 I’m looking to collaborate on **DevOps/SRE**
 
