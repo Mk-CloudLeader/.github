@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
  
-![image](https://github.com/Mk-CloudLeader/.github/assets/66654978/e3d1e312-f98e-4a4d-9196-f1e53bb7f509)
+![image](https://github.com/Mk-CloudLeader/.github/assets/66654978/bc1f5f34-dbcf-4abd-8990-e083b2d0a61e)
 
 - 👯 I’m looking to collaborate on **DevOps/SRE**
 
