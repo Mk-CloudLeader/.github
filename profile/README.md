@@ -2,11 +2,11 @@
 # Hi  👋, I'm Mukesh                                                                                                    ![image](https://github.com/Mk-CloudLeader/.github/assets/66654978/2717c47a-aa06-4f8b-8c61-e55e8c6cf63a)
 
 
- 
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 
 
 - 👯 I’m looking to collaborate on **DevOps/SRE**
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- 💬 ask me about anything, i am happy to help
 
 - 📝 I regularly write articles/codes on            https://github.com/Mk-CloudLeader/SRE-Site-reliability-engineering
 - 📝 Are you planning for AWS certification, follow  https://github.com/Mk-CloudLeader/aws_Meetup-2023
